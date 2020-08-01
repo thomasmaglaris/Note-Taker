@@ -4,7 +4,8 @@
 
 ## Description
 
-The following application introduces server-side coding to create an application that makes it possible to add and delete notes. 
+The following application introduces server-side coding to create an application that makes it possible to add and delete notes.
+![image](Develop/public/assets/images/Home.PNG) 
 
 ## Table of Contents
 
@@ -23,6 +24,8 @@ AS A user, I want to be able to write and save notes
 I WANT to be able to delete notes I've written before
 
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
+
+![image](Develop/public/assets/images/Notes.PNG) 
  
 
 ## Installation
