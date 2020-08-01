@@ -1,0 +1,38 @@
+*Notes
+* get, write, save, and delete Notes
+* express backend
+* JSON file
+*Build back end only
+*Routes
+    *html
+        *get /notes -> notes.html
+        * get * -> index.html
+
+    * api 
+        *get /api/notes -> get all notes and send back as JSON
+        *post /api/notes -> save new notes
+        * delete /api/notes/:id -> delete notes
+
+    * deploy on heroku
+    * submission 
+        *URL heroku
+        * URL Git repo
+
+*Tasks
+    * create server.js 
+    * create htmlROutes and use it in the server.js
+    *Implement htmlROutes
+        *html
+        * get /notes -> notes.html
+        * get * -> index.html
+    * create apiroutes and use it in the server.js
+    *implement apiroutes
+        *api
+            * get /api/notes -> get all notes and send
+            back as JSON
+            * post /api/notes -> save new notes
+            * delete /api/notes/id -> delete notes
+
+        *deploy on heroku
+        * Create README.md file
+        *Submit
